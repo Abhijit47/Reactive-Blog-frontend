@@ -1,0 +1,25 @@
+https://blog.logrocket.com/create-search-bar-react-from-scratch/
+https://codesandbox.io/s/react-filter-mywz3f?file=/src/post.jsx
+https://collegedunia.com/qna/question/27952-is-there-any-cgpa-to-percentage-calculation-formula-for-makaut-formerly-known-as-wbut-at-present
+https://mdbootstrap.com/docs/react/content-styles/icons/#docsTabsAPI
+https://www.davidhu.io/react-spinners/storybook/?path=/docs/riseloader--main
+https://day.js.org/docs/en/display/display
+https://momentjs.com/docs/#/parsing/
+https://blog.webdevsimplified.com/2020-07/relative-time-format/
+
+73.5+81.5+85.60+86.30+85.80+81.7=82.4
+
+892
+
+1ST
+2ND
+3RD
+4TH
+5TH
+6TH-83
+
+Yes, there is a fixed formula for CGPA to percentage conversion at MAKAUT. It's pretty simple and you can use it even if you are not very good at Math. The formula is Percentage=(CGPA - 0.75)*10 
+
+let us understand this through an example. If you have a CGPA of 8.25 then your percentage would be : (8.25 - 0.75)*10 
+
+Calculating the above expression, the percentage is equal to 75%. This formula is applicable to every CGPA even 10. A 10 CGPA will be around 92.5 %. The university through its official website has released the following details to make things simpler.
